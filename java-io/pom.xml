@@ -27,4 +27,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <!--我是测试消息-->
 </project>
